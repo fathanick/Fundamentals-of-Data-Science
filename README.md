@@ -19,8 +19,9 @@ This repository contains all the Python code, Jupyter notebooks, datasets, and r
 
 ```
 Fundamentals-of-Data-Science/
-├── Introduction to Python for Data Science/   ← NEW: Starter module
-│   ├── tutorial_random_variables_statistics.ipynb
+├── Introduction to Python for Data Science/   ← Starter module
+│   ├── 01_intro_python_datascience.ipynb
+│   ├── 02_probability_statistics.ipynb
 │   └── README.md
 ├── Random Variables/
 ├── Statistics/

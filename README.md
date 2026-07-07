@@ -35,6 +35,7 @@ Fundamentals-of-Data-Science/
 ├── Hierarchical Clustering/
 ├── Introduction to Python for Data Science/
 ├── K-Means/
+├── K-Means Clustering Gradio/
 ├── Logistic Regression/
 ├── Naive Bayes/
 ├── Random Variables/

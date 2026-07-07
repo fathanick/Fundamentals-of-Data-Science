@@ -4,33 +4,6 @@ This repository contains hands-on course materials for learning data science wit
 
 The materials are suitable for beginner undergraduate learners who already know basic programming concepts and want to practice data science workflows through code.
 
-## Course Content
-
-| # | Module | Notebooks | Main topics |
-|---|--------|-----------|-------------|
-| 1 | [Introduction to Python for Data Science](./Introduction%20to%20Python%20for%20Data%20Science) | 2 | Google Colab, NumPy, Pandas, Matplotlib, exploratory data analysis, probability, distributions, descriptive statistics |
-| 2 | [Random Variables](./Random%20Variables) | 2 | Discrete random variables, PMF, continuous random variables, PDF, CDF, and probability calculation |
-| 3 | [Statistics](./Statistics) | 1 | Mean, median, and mode from grouped frequency tables |
-| 4 | [Data Visualization](./Data%20Visualization) | 4 | Tables, bar charts, grouped bars, scatter plots, maps, Python visualization tools, and insight generation |
-| 5 | [Dimensionality Reduction](./Dimensionality%20reduction) | 3 | PCA, t-SNE, image-based dimensionality reduction, and feature reduction workflows |
-| 6 | [Logistic Regression](./Logistic%20Regression) | 1 | Diabetes prediction, train-test split, model training, and classification evaluation |
-| 7 | [Naive Bayes](./Naive%20Bayes) | 2 | Spam classification, text vectorization, and Playing Golf classification |
-| 8 | [Decision Tree](./Decision%20Tree) | 1 | Dataset creation, preprocessing, decision tree training, and prediction |
-| 9 | [K-Means](./K-Means) | 1 | Mall customer segmentation and K-Means clustering |
-| 10 | [DBSCAN Clustering](./DBSCAN%20Clustering) | 1 | Mall customer clustering with density-based clustering |
-| 11 | [Hierarchical Clustering](./Hierarchical%20Clustering) | 1 | Mall customer clustering with hierarchical clustering |
-
-## Datasets
-
-The repository includes small datasets used in the tutorials:
-
-- [`Data Visualization/supermarket_sales.csv`](./Data%20Visualization/supermarket_sales.csv)
-- [`Data Visualization/tips.csv`](./Data%20Visualization/tips.csv)
-- [`Dataset/PlayingGolfData.xlsx`](./Dataset/PlayingGolfData.xlsx)
-- [`Dataset/caesarian.csv.arff`](./Dataset/caesarian.csv.arff)
-
-Some notebooks also load public datasets directly through Python libraries or external sources.
-
 ## How to Use
 
 1. Open a notebook directly on GitHub and use its Colab badge when available.
@@ -65,6 +38,8 @@ Fundamentals-of-Data-Science/
 ├── Logistic Regression/
 ├── Naive Bayes/
 ├── Random Variables/
+├── Sentiment Analysis Gradio/
 ├── Statistics/
+├── Support Vector Machine/
 └── README.md
 ```

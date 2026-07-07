@@ -20,36 +20,6 @@ The materials are suitable for beginner undergraduate learners who already know 
 | 10 | [DBSCAN Clustering](./DBSCAN%20Clustering) | 1 | Mall customer clustering with density-based clustering |
 | 11 | [Hierarchical Clustering](./Hierarchical%20Clustering) | 1 | Mall customer clustering with hierarchical clustering |
 
-## Notebook List
-
-### Introduction and Foundations
-
-- [`Introduction to Python for Data Science/01_intro_python_datascience.ipynb`](./Introduction%20to%20Python%20for%20Data%20Science/01_intro_python_datascience.ipynb)
-- [`Introduction to Python for Data Science/02_probability_statistics.ipynb`](./Introduction%20to%20Python%20for%20Data%20Science/02_probability_statistics.ipynb)
-- [`Random Variables/01_Discrete_RV_Tutorial_PMF.ipynb`](./Random%20Variables/01_Discrete_RV_Tutorial_PMF.ipynb)
-- [`Random Variables/02_Continuous_RV_Tutorial_PDF_CDF.ipynb`](./Random%20Variables/02_Continuous_RV_Tutorial_PDF_CDF.ipynb)
-- [`Statistics/03_Mean_Median_Mode_Grouped_Data.ipynb`](./Statistics/03_Mean_Median_Mode_Grouped_Data.ipynb)
-
-### Data Visualization
-
-- [`Data Visualization/Data_visualization_with_Python.ipynb`](./Data%20Visualization/Data_visualization_with_Python.ipynb)
-- [`Data Visualization/03_Data_Visualization_Tutorial_with_Maps_and_Graphs.ipynb`](./Data%20Visualization/03_Data_Visualization_Tutorial_with_Maps_and_Graphs.ipynb)
-- [`Data Visualization/04_Data_Visualization_Tutorial.ipynb`](./Data%20Visualization/04_Data_Visualization_Tutorial.ipynb)
-- [`Data Visualization/05_Finding_Insights_from_Data_Tutorial.ipynb`](./Data%20Visualization/05_Finding_Insights_from_Data_Tutorial.ipynb)
-
-### Machine Learning
-
-- [`Dimensionality reduction/Dimensionality_reduction_using_PCA.ipynb`](./Dimensionality%20reduction/Dimensionality_reduction_using_PCA.ipynb)
-- [`Dimensionality reduction/Dimensionality_reduction_using_PCA_(2).ipynb`](./Dimensionality%20reduction/Dimensionality_reduction_using_PCA_%282%29.ipynb)
-- [`Dimensionality reduction/Dimensionality_reduction_image_t_sne.ipynb`](./Dimensionality%20reduction/Dimensionality_reduction_image_t_sne.ipynb)
-- [`Logistic Regression/logistic_regression_diabetes_prediction.ipynb`](./Logistic%20Regression/logistic_regression_diabetes_prediction.ipynb)
-- [`Naive Bayes/01_Spam_Classification_Naive_Bayes.ipynb`](./Naive%20Bayes/01_Spam_Classification_Naive_Bayes.ipynb)
-- [`Naive Bayes/02_Playing_Golf_Naive_Bayes.ipynb`](./Naive%20Bayes/02_Playing_Golf_Naive_Bayes.ipynb)
-- [`Decision Tree/Decision_Tree.ipynb`](./Decision%20Tree/Decision_Tree.ipynb)
-- [`K-Means/K_Means_Clustering_Tutorial.ipynb`](./K-Means/K_Means_Clustering_Tutorial.ipynb)
-- [`DBSCAN Clustering/DBSCAN_mall_customer.ipynb`](./DBSCAN%20Clustering/DBSCAN_mall_customer.ipynb)
-- [`Hierarchical Clustering/Hierarchical_clustering_mall_customer.ipynb`](./Hierarchical%20Clustering/Hierarchical_clustering_mall_customer.ipynb)
-
 ## Datasets
 
 The repository includes small datasets used in the tutorials:
